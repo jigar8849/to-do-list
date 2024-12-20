@@ -1,0 +1,51 @@
+body{
+    margin: 5rem;
+    padding-bottom: 15rem;
+    background-color: black;
+}
+
+.container{
+    padding-top: 2rem;
+    margin-top: 5rem;
+    margin: 15rem 15rem;
+    border: 2px solid rgb(246, 246, 247);
+    border-radius: 5px;
+    background-color: white;
+    padding-bottom: 15rem;    
+}
+h1{
+    padding-bottom: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-top: 2rem;
+}
+
+input{
+    margin-left: 5rem;
+    width: 25rem;
+    height: 2rem;
+    border: 2px solid rgb(113, 113, 233);
+    border-radius: 5px;
+}
+button{
+    border-radius: 5px;
+    height: 2.2rem;
+    width: 7rem;
+    margin-left: 2rem;
+    background-color: blue;
+    color: white;
+}
+
+.ul{
+    display: flex;
+    margin-top: 1rem;
+    justify-content: center;
+    align-items: center;
+    
+}
